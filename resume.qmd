@@ -26,7 +26,7 @@ editor: visual
 title: "Resume"
 ---
 
-<ifram width="800" height="1000"
+<iframe width="800" height="1000"
 src="Molly Lingenfelter Resume Fall 2026.pdf">
 
 </iframe>

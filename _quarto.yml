@@ -1,23 +1,25 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - 
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "Molly Lingenfelter - Website"
+  description: "Molly Lingenfelter"
+  site-url: https://mollylingenfelter.github.io # you must change this appropriately for RSS feeds to work properly
+  title: "Molly Lingenfelter"
   navbar:
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: bluesky
-        href: https://bsky.app/
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+        
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
 
 editor: visual
