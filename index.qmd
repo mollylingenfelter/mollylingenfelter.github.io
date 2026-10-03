@@ -1,6 +1,7 @@
 ---
 title: "Molly Lingenfelter"
-image: headshot.png
+subtitle: "Industrial Engineering and Operations Analytics | University of Arkansas"
+image: headshot26.png
 about:
   template: jolla
   links:
@@ -9,8 +10,10 @@ about:
       href: https://github.com/mollylingenfelter
     - icon: linkedin
       text: LinkedIn
-      href:       href: https://www.linkedin.com/in/molly-lingenfelter-63a577271
+      href: https://www.linkedin.com/in/molly-lingenfelter-63a577271
     - icon: inboxes
       text: Contact
       href: mailto:molly.lingenfelter@gmail.com
+---
+Industrial Engineering student at the University of Arkansas, interested in operations, process improvement, and data-driven problem solving.
 ---

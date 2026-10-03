@@ -1,8 +1,7 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - 
+  resources: ResumeF26.pdf
 
 website:
   description: "Molly Lingenfelter"
