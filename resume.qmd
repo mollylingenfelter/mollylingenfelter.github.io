@@ -1,0 +1,33 @@
+---
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Your Name"
+  
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    
+editor: visual
+
+---
+title: "Resume"
+---
+
+<ifram width="800" height="1000"
+src="Molly Lingenfelter Resume Fall 2026.pdf">
+
+</iframe>
+---

@@ -1,0 +1,17 @@
+---
+title: "Molly Lingenfelter"
+image: [Molly Lingenfelter - Headshot.png].jpg
+about: 
+  template: jolla
+    - icon: github
+      text: Github
+      href: https://github.com/mollylingenfelter
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/molly-lingenfelter-63a577271
+    - icon: inboxes
+      text: Contact
+      href: mailto:molly.lingenfelter@gmail.com
+page-layout: full
+title-block-banner: true
+---
