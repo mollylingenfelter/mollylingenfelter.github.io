@@ -15,5 +15,5 @@ about:
       text: Contact
       href: mailto:molly.lingenfelter@gmail.com
 ---
-Industrial Engineering student at the University of Arkansas, interested in operations, process improvement, and data-driven problem solving.
----
+
+## Industrial Engineering student at the University of Arkansas, interested in operations, process improvement, and data-driven problem solving.
