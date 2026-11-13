@@ -2,7 +2,8 @@
 title: "From Pump to Pantry: Tracking U.S. Grocery and Gas Prices"
 author: "Molly Lingenfelter"
 date: "2026-11-13"
-format: html
+categories: [school]
+image: "Cover Photo.jpg"
 ---
 
 # From Pump to Pantry: Tracking U.S. Grocery and Gas Prices
@@ -50,3 +51,9 @@ Does all uncooked ground beef and all types of gas move together in price? We fo
 How volatile are everyday prices? We found this question interesting because everyday prices are always changing, but it can be hard to tell how much they actually fluctuate. We wanted to see how much prices typically change each month and whether increases or decreases are more common. To answer this question, we used Excel to calculate the monthly percentage change in prices using a formula that took the current price of a product and subtracted its previous price then divided the number by the previous price. We also used an if statement to make sure we were comparing the same products from the data set. We then created a histogram to show how often different percentage changes occurred. We adjusted the bin widths and labeled the axes to make the graph easier to read. Our results showed that most monthly price changes were relatively small but tended to be positive, suggesting that prices generally increased slightly over time.
 
 ![Monthly price changes are small but lead to price increases.](Slide5.jpg)
+
+## Citations 
+
+Cover Photo -https://www.pbs.org/newshour/economy/inflation-runs-hotter-than-expected-as-higher-prices-extend-beyond-the-gas-station
+
+Data Set - https://www.kaggle.com/datasets/harshitsama/us-grocery-and-gas-prices-2015-2026
